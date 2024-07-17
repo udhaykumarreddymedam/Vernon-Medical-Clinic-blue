@@ -1410,10 +1410,12 @@ section {
   border-radius: 4px;
   background: var(--white);
 }
+
 .doctors .doc-img {
   border: 3px solid var(--primary);
   border-radius: 50%;
 }
+
 .doctors .member .member-img {
   position: relative;
   overflow: hidden;
@@ -1485,6 +1487,7 @@ section {
 .doctors .member:hover {
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
 }
+
 .doctors .member:hover .social {
   opacity: 1;
 }
